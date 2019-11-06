@@ -1,8 +1,8 @@
 {
-  "title": "git knowhow",
-  "description": "Let's learn about git",
+  "title": "Shell Scripting",
+  "description": "Let's learn about Shell Scripting",
   "difficulty": "Beginner",
-  "time": "15",
+  "time": "60",
   "details": {
     "steps": [
       {
