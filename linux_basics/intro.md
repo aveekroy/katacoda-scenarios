@@ -1,3 +1,3 @@
-This tutorial will setup a base Linux Ubuntu image and teach you about Basics of Linux.
+This tutorial will give you the information as to how many cases are being going on in each state/country.
 
-Note: You can type the commands provided in the left hand pane in the terminal window or simply click on the commands to execute.
+Note: You can type the commands provided in the left hand pane in the terminal window and simply click on the commands to execute.

@@ -1,22 +1,174 @@
-<p> Try it :`echo "Hello World"`{{execute T1}} </p>
-<p> This is how we echo Hello World in Linux</p>
+<div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+    <a href="#">China</a>
+    <a href="#">Italy</a>
+    <a href="#">US</a>
+  </div>
+</div>
 
-<p> Making a directory: `mkdir new_dir`{{execute T1}}</p>
-<p> A new directory 'new_dir' gets created</p>
-
-<p> Going inside the new_dir directory: `cd new_dir`{{execute T1}}</p>
-
-<p> Creating a file(say file.txt) :`touch file.txt`{{execute T1}}</p>
-
-<p> Adding something in the file(say adding 'Hi Katacoda User' to file.txt) :`echo 'Hi Katacoda User' > file.txt`{{execute T1}}</p>
-
-<p> Listing a directory: `ls -ltr`{{execute T1}}</p>
-
-<p> You can also list hidden files using -a option(begins with a .): `ls -ltra`{{execute T1}}</p>
-
-<p> Present working directory: `pwd`{{execute T1}}</p>
-<p> This is the present directory where you are working</p>
-
-<p> Viewing the contents of the file :`cat file.txt`{{execute T1}}</p>
-
-#### Finished with this section? Click Continue to learn more about grep####
+<blockquote>
+China
+Italy
+Iran
+Spain
+Germany
+France
+Korea, South
+Switzerland
+United Kingdom
+US
+Netherlands
+Austria
+Norway
+Belgium
+Sweden
+Denmark
+Japan
+Malaysia
+Cruise Ship
+Czechia
+Qatar
+Portugal
+Israel
+Greece
+Brazil
+Finland
+Singapore
+Pakistan
+Ireland
+Slovenia
+Australia
+Romania
+Estonia
+Bahrain
+Poland
+Iceland
+Chile
+Indonesia
+Canada
+Thailand
+Luxembourg
+Philippines
+Egypt
+Saudi Arabia
+Iraq
+India
+Russia
+Peru
+Kuwait
+Lebanon
+San Marino
+South Africa
+United Arab Emirates
+Ecuador
+Slovakia
+Taiwan*
+Turkey
+Colombia
+Mexico
+Bulgaria
+Panama
+Armenia
+Serbia
+Croatia
+Argentina
+Vietnam
+Algeria
+Latvia
+Brunei
+Albania
+Hungary
+Jordan
+Belarus
+Sri Lanka
+Costa Rica
+Uruguay
+Cyprus
+Morocco
+Andorra
+Oman
+Bosnia and Herzegovina
+Georgia
+Malta
+Venezuela
+Cambodia
+Kazakhstan
+North Macedonia
+Senegal
+Moldova
+Tunisia
+Azerbaijan
+Liechtenstein
+Guadeloupe
+Lithuania
+Afghanistan
+Dominican Republic
+Burkina Faso
+New Zealand
+Martinique
+Uzbekistan
+Bangladesh
+Ukraine
+Jamaica
+Maldives
+Bolivia
+Reunion
+French Guiana
+Paraguay
+Cameroon
+Honduras
+Nigeria
+Rwanda
+Cuba
+Ghana
+Guyana
+Monaco
+Trinidad and Tobago
+Cote d'Ivoire
+Ethiopia
+Guatemala
+Mongolia
+Aruba
+Congo (Kinshasa)
+Equatorial Guinea
+Seychelles
+Kenya
+Kyrgyzstan
+Mauritius
+Mayotte
+Tanzania
+Barbados
+Benin
+Kosovo
+Liberia
+Namibia
+Saint Lucia
+Sudan
+Zambia
+Antigua and Barbuda
+Bhutan
+Central African Republic
+Congo (Brazzaville)
+Djibouti
+Eswatini
+Gabon
+Gambia, The
+Greenland
+Guinea
+Holy See
+Mauritania
+Montenegro
+Nepal
+Saint Vincent and the Grenadines
+Somalia
+Suriname
+The Bahamas
+Togo
+Guam
+Guernsey
+Jersey
+Puerto Rico
+Republic of the Congo
+The Gambia
+</blockquote>

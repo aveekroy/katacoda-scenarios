@@ -1,8 +1,8 @@
 {
-  "title": "Basics of Linux",
-  "description": "Let's learn about Linux",
+  "title": "COVID-19 State/Country Report",
+  "description": "Gives you the detailed list of the cases present in your State or Country",
   "difficulty": "Beginner",
-  "time": "60",
+  "time": "15",
   "details": {
     "steps": [
       {
