@@ -29,6 +29,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "docker.io/avk19/covid19"
+    "imageid": "ubuntu"
   }
 }
